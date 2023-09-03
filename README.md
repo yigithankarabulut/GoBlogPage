@@ -1,5 +1,3 @@
 # Golang-BlogPage
-net/http ve httprouter kullanarak geliştirdiğim bir blog sitesi
 
-Backend öğrenmeye go ile başladım. Bu repo bu yolda yapmış olduğum ilk proje. Bir freebootstrap indirip backendini yazmaya çalıştım.
-Db olarak gorm ve mysql kullandım projeyi db connection ı sağladıktan sonra go run main.go yazarak çalıştırabilirsiniz.
+I started learning backend with go. This repo is the first project I have done on this road. I tried to download a freebootstrap and write its backend. I used gorm and mysql as db. After providing db connection, you can run the project by typing go run main.go.
